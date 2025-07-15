@@ -1,0 +1,11 @@
+# Ignore the Python virtual environment
+.venv/
+
+# Ignore data files
+data/
+
+# Ignore temporary CatBoost folders
+catboost_info/
+
+# Ignore output/submission files
+*.csv
