@@ -27,6 +27,5 @@ The models were evaluated based on the private score metric from the Kaggle comp
 ### Submission Leaderboard
 | Submission File | Public Score | Private Score |
 | :--- | :--- | :--- |
-| `submission_grandmaster_strategy.csv` | 0.35118 | **0.35508** |
 | `submission_optimized_ensemble.csv` | 0.35012 | 0.35408 |
 | `submission.csv` | 0.34363 | 0.34487 |
